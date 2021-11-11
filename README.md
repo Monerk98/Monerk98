@@ -4,11 +4,11 @@
 
 ### 🢒 Connect with me:
 
-[<img align="left" alt="Dima | Instagram" width="22px" src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" />][gmail]
-[<img align="left" alt="Dima | LinkedIn" width="22px" src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" />][linkedin]
+[<img align="left" alt="Dima" | Instagram" width="22px" src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" />][gmail]
+[<img align="left" alt="Dima" | LinkedIn" width="22px" src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" />][linkedin]
 [<img align="left" alt="Dima" width="22px" src="https://emojis.slackmojis.com/emojis/images/1571911709/6804/globe.png?1571911709" />][website]
-[<img align="left" alt="Dima | Instagram" width="22px" src="https://emojis.slackmojis.com/emojis/images/1538061120/4724/telegram.png?1538061120" />][telegram]
-[<img align="left" alt="Dima | Instagram" width="22px" src="https://emojis.slackmojis.com/emojis/images/1467306728/632/instagram.png?1467306728" />][instagram]
+[<img align="left" alt="Dima" | Instagram" width="22px" src="https://emojis.slackmojis.com/emojis/images/1538061120/4724/telegram.png?1538061120" />][telegram]
+[<img align="left" alt="Dima" | Instagram" width="22px" src="https://emojis.slackmojis.com/emojis/images/1467306728/632/instagram.png?1467306728" />][instagram]
 
 <br />
 
