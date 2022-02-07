@@ -29,19 +29,6 @@
 
 <img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
 
-- uses: Platane/snk@master
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.repository_owner }}
-
-    # path of the generated gif file
-    # If left empty, the gif file will not be generated
-    gif_out_path: dist/github-snake.gif
-
-    # path of the generated svg file
-    # If left empty, the svg file will not be generated
-    svg_out_path: dist/github-snake.svg
 
 <br />
 
@@ -50,4 +37,7 @@
 [linkedin]: https://www.linkedin.com/in/dmytro-bolgarin-531a2621b/
 [telegram]: https://t.me/Nikopol98
 [gmail]: https://mail.google.com/mail/u/0/#inbox
+
+<br />
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
