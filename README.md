@@ -1,4 +1,5 @@
-### Hi there,👋 my name is **Dima Bolharin**!
+<!-- ### Hi there,👋 my name is **Dima Bolharin**! -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
 ## I'm beginner *Front-end developer* from tiny town called Nikopol
 
