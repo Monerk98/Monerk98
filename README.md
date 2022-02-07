@@ -29,7 +29,8 @@
 
 <img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 <br />
 
 [website]: https://monerk98.github.io/aboutMe/
