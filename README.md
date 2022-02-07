@@ -29,7 +29,7 @@
 
 <img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
 
-
+about:blank
 <br />
 
 [website]: https://monerk98.github.io/aboutMe/
@@ -38,6 +38,5 @@
 [telegram]: https://t.me/Nikopol98
 [gmail]: https://mail.google.com/mail/u/0/#inbox
 
-<br />
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
